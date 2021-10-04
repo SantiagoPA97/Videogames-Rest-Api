@@ -1,0 +1,7 @@
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.csproj.AssemblyReference.cache
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.AssemblyInfoInputs.cache
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.AssemblyInfo.cs
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santiago Peláez\Desktop\RestAPIDotnetCore\ApiWithoutEF\obj\Debug\net5.0\ApiWithoutEF.MvcApplicationPartsAssemblyInfo.cache
