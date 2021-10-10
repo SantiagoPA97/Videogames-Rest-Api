@@ -7,5 +7,9 @@ appsettings.json
 # ignore folder bin
 bin/
 
-# ignore 
+# ignore folder obj
 obj/
+
+# ignore folder .vscode
+.vscode/
+
