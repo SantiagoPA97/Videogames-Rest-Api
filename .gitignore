@@ -1,0 +1,11 @@
+# ignore all logs
+*.log
+
+# ignore appsettings.json
+appsettings.json
+
+# ignore folder bin
+bin/
+
+# ignore 
+obj/

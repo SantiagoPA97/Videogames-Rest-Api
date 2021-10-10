@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace ApiWithoutEF.Models
 {
     public class Videogame
